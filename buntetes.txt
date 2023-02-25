@@ -1,0 +1,4 @@
+Robogó: "" - 40km/h, haladhat itt
+Audi AAA-111 - 200km/h, megfelelõ sebesség
+Robogó: "" - 80km/h, haladhat itt
+Audi AAA-111 - 130km/h, gyorshajtott
